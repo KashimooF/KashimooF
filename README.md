@@ -6,4 +6,4 @@
 ## 🎯 Алгоритмы и задачи
 
 ### Codewars
-![Codewars](https://www.codewars.com/users/kirillcodews/stats)
+![Codewars](s)
